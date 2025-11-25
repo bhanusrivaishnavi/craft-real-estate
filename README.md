@@ -1,9 +1,9 @@
 # craft-real-estate
 
-A small Craft CMS site ("Olivia / House Quest" demo) — built from a Craft CMS starter project and configured for local development with DDEV.
+A small Craft CMS site configured for local development with DDEV.
 
 ## Quick summary
-- PHP / Craft project with public `web/` folder.
+- Craft project with public `web/` folder.
 - Project uses DDEV for local development (see `.ddev/config.yaml`).
 - Templates reference static frontend assets under `/assets/` and images under `/images/`.
 

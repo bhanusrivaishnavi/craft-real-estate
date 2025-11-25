@@ -1,0 +1,87 @@
+color: null
+description: null
+fieldLayouts:
+  3f47fe8e-af15-4f39-8b77-40f981f86091:
+    cardThumbAlignment: end
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            dateAdded: '2025-11-25T03:47:54+00:00'
+            disabled: false
+            elementCondition: null
+            id: null
+            includeInCards: false
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            providesThumbs: false
+            readonly: false
+            required: true
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 378aad96-254d-4a63-902c-8a67000f4b7d
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-11-25T03:59:50+00:00'
+            editCondition: null
+            elementCondition: null
+            fieldUid: bfbd1dd1-42ef-442d-af4e-70a6ba53f0e5 # Summary Text
+            handle: null
+            includeInCards: false
+            instructions: 'A short one or two sentence summary of the article.'
+            label: 'Article Summary'
+            providesThumbs: false
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 4cc1e2d3-6905-471c-82cd-43576c6a0167
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-11-25T03:56:27+00:00'
+            editCondition: null
+            elementCondition: null
+            fieldUid: 347f5f47-11fb-4977-98ab-81501185165d # Rich Text
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: 'Article Copy'
+            providesThumbs: false
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 44126e1c-3c68-4d15-9d3e-8587e68ca361
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: e0c91684-60e4-4158-adfb-48ae8ba7328b
+        userCondition: null
+handle: default
+hasTitleField: true
+icon: null
+name: Default
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

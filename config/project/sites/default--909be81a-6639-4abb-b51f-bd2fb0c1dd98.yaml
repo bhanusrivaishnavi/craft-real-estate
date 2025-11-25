@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en
+name: Olivia
+primary: true
+siteGroup: 022f7b14-3732-40d6-8bcd-dc3cd3c366e1 # Olivia
+sortOrder: 1

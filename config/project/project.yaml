@@ -1,0 +1,27 @@
+dateModified: 1764043190
+email:
+  fromEmail: bbsvaishnavi@gmail.com
+  fromName: Olivia
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    022f7b14-3732-40d6-8bcd-dc3cd3c366e1: Olivia # Olivia
+    347f5f47-11fb-4977-98ab-81501185165d: 'Rich Text' # Rich Text
+    909be81a-6639-4abb-b51f-bd2fb0c1dd98: Olivia # Olivia
+    bfbd1dd1-42ef-442d-af4e-70a6ba53f0e5: 'Summary Text' # Summary Text
+    c20e8c0b-ec9f-4a69-994f-dbc5d32fad6b: Homepage # Homepage
+    cc9bf9b0-89fa-4be5-9f02-bcf4fd7f34f1: Default # Default
+    fd1702f0-2a50-4d69-afe1-7f2f1c381b9e: 'Market News' # Market News
+system:
+  edition: solo
+  live: true
+  name: Olivia
+  schemaVersion: 5.8.0.3
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  require2fa: false
+  requireEmailVerification: true
